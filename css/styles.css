@@ -1,9 +1,6 @@
-body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #6c757d;
-  background-color: #f8f9fa;
-}
-
+body {font-family: "Google font-style";
+  color: #6e6c7df5;
+  background-color: #27c7846e;}
 h1, h2, h3, h4, h5, h6 {
   color: #343a40;
 }
@@ -14,10 +11,10 @@ hr {
 }
 
 a {
-  color: #f3a14b;
+  color: #443d37;
 }
 a:hover {
-  color: #93ada4;
+  color: #414946;
   text-decoration: none;
 }
 
@@ -25,7 +22,7 @@ header.masthead {
   padding-top: 6rem;
   padding-bottom: 3rem;
   text-align: center;
-  background-color: #eadfc9;
+  background-color: rgba(173, 230, 190, 0.404);
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -42,7 +39,7 @@ header.masthead {
   font-size: 2.75rem;
 }
 .last-name-highlight {
-  color: #f3a14b;
+  color: #2b2938;
 }
 @media (max-width: 576px) {
   .masthead-full-name {
