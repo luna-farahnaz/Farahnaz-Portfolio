@@ -1,6 +1,6 @@
 body {font-family: "Google font-style";
   color: #6e6c7df5;
-  background-color: #27c7846e;}
+  background-color: #8290e26e;}
 h1, h2, h3, h4, h5, h6 {
   color: #343a40;
 }
@@ -50,7 +50,7 @@ header.masthead {
 }
 
 .bg-primary {
-  background-color: #eadfc9 !important;
+  background-color: #8290e26e;
 }
 
 .img-profile {
@@ -91,7 +91,7 @@ header.masthead {
 }
 
 .text-primary {
-  color: #f3a14b !important;
+  color: #414946 !important;
 }
 
 .text-dark {
@@ -284,7 +284,7 @@ header.masthead {
 
 .page-section {
   padding: 6rem 0;
-  background-color: #f8f9fa;
+  background-color: #bad7e7;
 }
 .page-section h2.section-heading {
   font-size: 2.5rem;
